@@ -29,7 +29,7 @@ Male/Female Columns: Binary columns for gender analysis.
 Clear and concise visualizations of volunteer demographics and contract details.
 Different colors and textures for improved readability and engagement.
 ##### Visualization Types:
-Bar Charts
-Pie Charts
-Tables
+Bar Charts,
+Pie Charts,
+Tables,
 Slicers for interactive filtering.
